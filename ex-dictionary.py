@@ -26,8 +26,14 @@ products = [{
     "가격": 3000,
     "분류": "과일"
     }, {
-        "제품명": "사과",
-    "가격": 3000,
+    "제품명": "바나나",
+    "가격": 2300,
     "분류": "과일"
     }
 ]
+
+for product in products:
+    for key in product:
+        print(key,product[key])
+    print("*" * 20)
+    
