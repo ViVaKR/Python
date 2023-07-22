@@ -7,9 +7,10 @@ print(converter.lbs_to_kg(100))
 print(kg_to_lbs(70))
 
 numbers = [23, 56, 23, 82, 1, 45, 33]
+
 print(find_max(numbers))
 
-class
+
 class Mammal:
     def walk(self):
         print("walk")
@@ -32,6 +33,7 @@ dog.bark()
 cat = Cat()
 cat.walk()
 cat.be_annoying()
+
 
 class Person:
     def __init__(self, name):
@@ -407,11 +409,11 @@ class Point:
 # print(course)
 
 # - 형변환
-weight_lbs = input('Weight (lbs): ')
+weight_lbs = input("Weight (lbs): ")
 weight_kg = int(weight_lbs) * 0.45
 print(weight_kg)
 
-birth_year = input('Birth year: ')
+birth_year = input("Birth year: ")
 print(type(birth_year))
 
 age = 2019 - int(birth_year)

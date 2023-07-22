@@ -1,4 +1,18 @@
-# 파이썬
+# Python
+
+## Install Python
+
+## Choosing an Integrated Development Environment (IDE)
+
+1. Notepad
+2. PyCharm
+3. Spyder
+4. Anaconda
+5. Visual Studio
+6. Visual Studio Code
+7. IDLE 
+
+
 
 ## 딕셔너리 : `{ }`
 
