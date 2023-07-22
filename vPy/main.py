@@ -9,6 +9,7 @@ def clear():
 # self : 객체 자신을 의미, this 와 동일한 의미
 # 메소드를 정의할 때 처음 전달값은 반드시 self
 # 메소드 내에서는 self.name 과 같은 형태로 멤버변수를 사용
+
 class BlackBox:
 
     def __init__(self, name, price):  # 생성자
