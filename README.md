@@ -2,6 +2,13 @@
 
 ## Install Python
 
+## VS Code Editor Settings
+
+* `CMD(CTRL) + SHIFT + P`
+  * Python: Select Interpreter
+
+## pyenv
+
 ## Choosing an Integrated Development Environment (IDE)
 
 1. Notepad
@@ -10,9 +17,7 @@
 4. Anaconda
 5. Visual Studio
 6. Visual Studio Code
-7. IDLE 
-
-
+7. IDLE
 
 ## 딕셔너리 : `{ }`
 
