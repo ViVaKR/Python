@@ -47,3 +47,27 @@ print(product["제품명"]) # "사과"
 print(product["가격"]) # 3000
 print(product["분류"]) # "과일"
 ```
+
+## Update
+
+```ps1
+
+python.exe -m pip install --upgrade pip
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy acikit-learn
+
+  
+```
+
+## Uninstall All Packages
+
+```ps1
+  
+  pip freeze > requirements.txt
+  
+  # Remove all packages – one by one
+  pip uninstall -r requirements.txt
+  
+  # Remove all packages at once –
+  pip uninstall -r requirements.txt -y
+
+```
