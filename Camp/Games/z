@@ -1,0 +1,5 @@
+#! /usr/bin/env zsh
+
+# python ./quiz_game.py
+# python ./number_guesser.py
+python ./rock_paper_scissors.py
